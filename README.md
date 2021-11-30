@@ -10,7 +10,7 @@ If you would like to build from source, use this following command:
 $ ./gradlew clean build
 ```
 
-Once it finishes the locally built the IntelliJ Idea Plugin will be located here:
+Once it finishes the locally built the PyCharm Plugin will be located here:
 
 ```
 build/distributions/codegenx-pycharm-plugin-<version>.zip
