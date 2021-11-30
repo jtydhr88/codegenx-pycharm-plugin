@@ -35,3 +35,5 @@ You can install this using _Preferences > Plugins > Install plugin from disk... 
 4. Insert code
 
 ![insertcode](/images/insertcode.png)
+
+More information, please refer to https://deepgenx.com/
