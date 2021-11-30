@@ -7,7 +7,7 @@
 		CodeGenX Plugin for PyCharm
 	</p>
 	<p>
-		If you find any issues, please report them (<a href="xxxx">GitHub issue tracker</a>).
+		If you find any issues, please report them (<a href="https://github.com/jtydhr88/codegenx-pycharm-plugin/issues">GitHub issue tracker</a>).
 	</p>]]></description>
 
     <depends>com.intellij.modules.platform</depends>
@@ -26,8 +26,9 @@
             serviceImplementation="com.deepgenx.codegenx.settings.ApplicationSettingsState"
         />
         <toolWindow
-            id="com.deepgenx.codegenx.viewer.CodeGenXToolWindowFactory"
-            secondary="false" anchor="right"
+            id="CodeGenX"
+            secondary="false"
+            anchor="right"
             factoryClass="com.deepgenx.codegenx.viewer.CodeGenXToolWindowFactory"
         />
     </extensions>
